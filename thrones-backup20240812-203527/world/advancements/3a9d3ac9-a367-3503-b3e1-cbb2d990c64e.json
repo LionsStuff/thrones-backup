@@ -1,0 +1,271 @@
+{
+  "rats:root": {
+    "criteria": {
+      "tick": "2024-07-01 01:30:33 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-07-01 01:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-07-06 01:38:12 +0000",
+      "minecraft:cherry_grove": "2024-07-01 01:34:34 +0000",
+      "minecraft:sunflower_plains": "2024-07-01 03:39:41 +0000",
+      "minecraft:river": "2024-07-01 01:57:43 +0000",
+      "minecraft:dripstone_caves": "2024-07-01 03:15:51 +0000",
+      "minecraft:jagged_peaks": "2024-07-01 03:36:36 +0000",
+      "minecraft:deep_dark": "2024-07-03 15:20:55 +0000",
+      "minecraft:meadow": "2024-07-01 01:57:52 +0000",
+      "minecraft:plains": "2024-07-01 01:30:34 +0000"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-07-01 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-07-01 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-07-01 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-07-01 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-07-01 01:32:58 +0000",
+      "inv_changed-diamond": "2024-07-01 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-07-01 01:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-01 01:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-07-01 01:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-07-01 01:43:03 +0000",
+      "minecraft:spider": "2024-07-01 02:18:46 +0000",
+      "minecraft:witch": "2024-07-06 00:46:08 +0000",
+      "minecraft:zombie": "2024-07-01 03:25:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-07-01 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-07-01 04:17:54 +0000",
+      "cooked_mutton": "2024-07-01 04:29:40 +0000",
+      "sweet_berries": "2024-07-01 03:53:14 +0000",
+      "baked_potato": "2024-07-01 03:20:50 +0000",
+      "porkchop": "2024-07-03 15:17:21 +0000",
+      "apple": "2024-07-06 00:33:51 +0000",
+      "bread": "2024-07-01 01:43:24 +0000",
+      "glow_berries": "2024-07-06 01:10:01 +0000",
+      "cooked_chicken": "2024-07-02 15:14:31 +0000",
+      "carrot": "2024-07-03 04:49:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-07-01 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-07-01 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-01 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-07-01 02:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-07-01 02:15:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-07-01 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-01 03:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2024-07-01 04:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2024-07-01 04:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2024-07-02 23:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2024-07-02 23:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-07-02 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2024-07-03 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-07-03 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-07-03 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2024-07-03 03:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-07-03 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-07-03 03:50:53 +0000",
+      "minecraft:sheep": "2024-07-03 16:01:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-07-03 03:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2024-07-03 04:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-07-03 05:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-07-03 15:24:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-07-03 15:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-07-03 15:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-07-04 02:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-07-04 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_lumberjack": {
+    "criteria": {
+      "lumberjack": "2024-07-04 04:07:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
